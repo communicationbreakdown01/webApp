@@ -1,0 +1,23 @@
+{
+  "name": "webapp",
+  "description": "Webapp for telephone notes",
+  "main": "",
+  "authors": [
+    "Jessica Laxa"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "jquery-ui": "^1.12.1"
+  }
+}
